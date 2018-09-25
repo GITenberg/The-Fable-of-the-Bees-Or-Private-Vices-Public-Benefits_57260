@@ -1,11 +1,16 @@
 _repo: The-Fable-of-the-Bees-Or-Private-Vices-Public-Benefits_57260
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57260-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Bernard Mandeville (1670-1733)
     gutenberg_agent_id: '49281'
     url: http://www.gutenberg.org/2009/agents/49281
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57260#The-Fable-of-the-Bees-Or-Private-Vices-Public-Benefits
 gutenberg_issued: '2018-06-04'
 gutenberg_type: Text
 identifiers:
